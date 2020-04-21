@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(26, 25, 25);
+}
+
+
+
+.main {
+    margin: 27px;
+    padding-top: 51px;
+    padding-left: 131px;
+    padding-right: 131px;
+    padding-bottom: 131px;
+    background-color: #ffffff;
+}
+
+
+
+a {
+    font-style: DejaVu Sans Mono, monospace;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 31px;
+}
+
+
+
+img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
